@@ -21,7 +21,7 @@ Everything is self-contained. No dependencies, no build step, no framework.
 
 **Web viewer:** double-click `index.html`.
 
-**PDF:** run `typst compile --root . print/swatches.typ` to regenerate.
+**PDF:** run `typst compile --root . print/swatches.typ` to regenerate, or use the [Tinymist](https://github.com/typst-community/tinymist) VS Code extension.
 
 ## Data format
 
